@@ -1,0 +1,11 @@
+{
+  "name": "output_for_articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Toshiyuki023Hori/output_for_articles.git",
+  "author": "Toshiyuki023Hori <World.88Toshi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.137"
+  }
+}
